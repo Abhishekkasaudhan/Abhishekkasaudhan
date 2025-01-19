@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Abhishekkasaudhan
 - 👀 I’m interested in development.
-- 🌱 I’m currently learning java .
 - 📫 you can reach me abhishekkasaudhan582@gmail.com
 - 😄 Pronouns: hindi/english.
 <!---
